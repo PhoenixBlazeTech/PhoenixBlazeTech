@@ -6,7 +6,7 @@
 [![Twitter: Emanuel ](https://img.shields.io/twitter/follow/Emanuel?style=social)]()
 [![Linkedin: ](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel/)]()
 [![GitHub ](https://img.shields.io/github/followers/PhoenixBlazeTech?label=follow&style=social)](https://github.com/PhoenixBlazeTech)
-[![gmail: emapl567](https://img.shields.io/badge/gmail-emapl567-red?logo=gmail)](mailto:emapl567@gmail.com)
+[![gmail: user](https://img.shields.io/badge/gmail-emapl567-red?logo=gmail)]()
 
 ### <img src="https://i.pinimg.com/originals/7f/c8/8e/7fc88ea5ecdc7d3ad13faa05544f65c6.png" width="50"> A little more about me...  
 
