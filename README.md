@@ -13,7 +13,7 @@
 ```javascript
 const Me = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C,C++, Python, Shell],
+  code: [Javascript, HTML, CSS, C,C++, Python, Rust],
   technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -28,7 +28,10 @@ const Me = {
    challenge: "¡Develop a complete project using technologies that i haven´t mastered yet and document the process on a blog or in my GitHub repository!",
 };
 ```
+<!--
 [![PhoenixBlazeTech GitHub stats](https://github-readme-stats.vercel.app/api?username=PhoenixBlazeTech&show_icons=true&theme=transparent)](https://github.com/PhoenixBlazeTech/github-readme-stats)
+-->
+
 <!--
 **PhoenixBlazeTech/PhoenixBlazeTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
