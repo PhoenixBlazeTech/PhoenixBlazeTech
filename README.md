@@ -4,7 +4,7 @@
 </em></p>
 
 <!--[![Twitter: Emanuel ](https://img.shields.io/twitter/follow/Emanuel?style=social)]()-->
-[![Linkedin: ](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel/)](https://www.linkedin.com/in/eliseo-emanuel-montaño-lopez-624925304/)
+[![Linkedin: ](https://img.shields.io/badge/-emanuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuel/)](www.linkedin.com/in/eliseo-emanuel-montaño-lopez-624925304)
 [![GitHub ](https://img.shields.io/github/followers/PhoenixBlazeTech?label=follow&style=social)](https://github.com/PhoenixBlazeTech)
 <!--[![gmail: user](https://img.shields.io/badge/gmail-user-red?logo=gmail)]()-->
 
@@ -13,14 +13,14 @@
 ```javascript
 const Me = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C,C++, Python, Rust],
+  code: [Javascript, HTML, CSS, C,C++, Python],
   technologies: {
       frontEnd: {
          js: ["React", "Angular"],
          css: ["Bootstrap"]
       },
       backEnd: {
-         js: ["Node"]
+         Python: ["Flask"]
       },
       databases: ["mySQL", "SQLServer"]
    },
