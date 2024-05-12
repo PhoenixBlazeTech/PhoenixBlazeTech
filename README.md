@@ -16,7 +16,7 @@ const Me = {
   code: [Javascript, HTML, CSS, C,C++, Python],
   technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
+         js: ["React"],
          css: ["Bootstrap"]
       },
       backEnd: {
