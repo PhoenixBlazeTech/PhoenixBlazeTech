@@ -134,16 +134,6 @@ const Emanuel = {
 
 ---
 
-## 📊 Actividad Reciente
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PhoenixBlazeTech&theme=dark&hide_border=true)](https://github.com/PhoenixBlazeTech)
-
-</div>
-
----
-
 <div align="center">
 
 ## 🤝 Conectemos
