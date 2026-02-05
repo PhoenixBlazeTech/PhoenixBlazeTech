@@ -134,13 +134,11 @@ const Emanuel = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Actividad Reciente
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhoenixBlazeTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixBlazeTech&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PhoenixBlazeTech&theme=dark&hide_border=true)](https://github.com/PhoenixBlazeTech)
 
 </div>
 
